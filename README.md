@@ -1,0 +1,2 @@
+# Second_Project_DeltaQuera_Artificial_Intelligence_Bootcamp
+Second Project, DeltaQuera Artificial Intelligence Bootcamp
