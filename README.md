@@ -5,9 +5,9 @@ Second Project, DeltaQuera Artificial Intelligence Bootcamp
 # مسئله‌ی ۱: دسته‌بندی غذا 
 
 # حامد، علی و محمدحسین 
-##files for Resnet50 : [Resnet50_food_model,Resnet50_predict]
+## files for Resnet50 : [Resnet50_food_model,Resnet50_predict]
 
-##models for Resnet50 : https://drive.google.com/drive/folders/1YReaMuU8kdZ_W5HdUYomQ6ho5pQlndBR?usp=sharing
+## models for Resnet50 : https://drive.google.com/drive/folders/1YReaMuU8kdZ_W5HdUYomQ6ho5pQlndBR?usp=sharing
 -----------------
 #  مسئله‌ی ۲: تحلیل احساس نظرات 
 
