@@ -21,7 +21,7 @@ models for Resnet50 : https://drive.google.com/drive/folders/1YReaMuU8kdZ_W5HdUY
 - آموزش مدل Word2Vec با استفاده از `gensim`
 - بررسی کلمات مشابه با "گارانتی" و "وارانتی"
 
-#### vector.ipynb
+#### 222_vector.ipynb
 - استخراج بردارهای جملات با Sentence Transformers
 - محاسبه شباهت بین نظرات و جملات مرجع با Cosine Similarity
 - فیلتر نظرات مرتبط با گارانتی و تحلیل میانگین رضایت
