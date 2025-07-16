@@ -3,4 +3,4 @@ Second Project, DeltaQuera Artificial Intelligence Bootcamp
 
 files for Resnet50 : [food2,predict]
 -------------------------------------------------
-models for Resnet50 : https://drive.google.com/file/d/1-S5vbXbWea69veAq1SaogRG333PfrZFX/view?usp=sharing, https://drive.google.com/file/d/1K1mAFrR67_mOAnsryWoFKxFidD5df-TF/view?usp=sharing, https://drive.google.com/file/d/1qnjSchaw-CThqPt0-lUM8v5OSu8XIsJM/view?usp=sharing
+models for Resnet50 : https://drive.google.com/drive/folders/1YReaMuU8kdZ_W5HdUYomQ6ho5pQlndBR?usp=sharing
