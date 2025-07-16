@@ -8,7 +8,7 @@ Second Project, DeltaQuera Artificial Intelligence Bootcamp
 ## Resnt50
 ### files for Resnet50 : [Resnet50_food_model,Resnet50_predict]
 این پروژه به بررسی تصاویر غدا‌های مختلف در 22 دسته میپردازد آن هم با استفاده از یک مدل pre-trained که 2 بار از قبل آموزش دیده است، یکبار بر روی داده‌های Imagenet و بار دوم بر روی داده‌های food101
-## models for Resnet50 : https://drive.google.com/drive/folders/1YReaMuU8kdZ_W5HdUYomQ6ho5pQlndBR?usp=sharing
+### models for Resnet50 : https://drive.google.com/drive/folders/1YReaMuU8kdZ_W5HdUYomQ6ho5pQlndBR?usp=sharing
 از طریق این لینک میتوانید به مدل آموزش دیده‌ی ما و مدلی که در این پروژه استفاده شده دسترسی داشته باشید
 -----------------
 #  مسئله‌ی ۲: تحلیل احساس نظرات 
