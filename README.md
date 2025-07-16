@@ -44,8 +44,34 @@ Second Project, DeltaQuera Artificial Intelligence Bootcamp
 -------
 
 
-Part 3 : Sentiment Analysis Model
+## Part 3 : Sentiment Analysis Model
+برای تحلیل احساس متن (Sentiment Analysis)، ما یک مدل RoBERTa را آموزش دادیم.
 
-RoBERTa Sentiment Analysis : https://drive.google.com/drive/folders/1yQFVy7C26saZoM4S0sFHuxngQuRWOgi6?usp=sharing
+### پیش‌پردازش و آماده‌سازی داده:
+
+
+ 
+#### - داده‌های متنی (نظرات کاربران) و لیبل‌های مربوطه (امتیازات 1 تا 5 ستاره) را از فایل train_data.csv و test_data.csv بارگذاری کردیم.
+
+#### - برای آموزش اولیه، یک زیرمجموعه 30,000 تایی تصادفی از داده‌های آموزش را انتخاب کردیم.
+
+#### - این داده‌ها را به وسیله RoBERTaTokenizer توکن‌سازی کردیم تا برای ورودی مدل مناسب شوند.
+
+
+### آموزش مدل RoBERTa:
+
+#### - مدل RobertaForSequenceClassification (یک مدل RoBERTa از پیش آموزش‌دیده برای طبقه‌بندی دنباله) را بارگذاری کردیم.
+
+#### - با استفاده از AdamW Optimizer و یک نرخ یادگیری (Learning Rate) مشخص، مدل را روی Train Set آموزش دادیم.
+
+### ذخیره و تست مدل:
+
+#### - پس از اتمام آموزش، مدل و توکنایزر آموزش‌دیده را ذخیره کردیم.
+
+#### - برای ارزیابی نهایی، مدل آموزش‌دیده را روی داده‌های فایل test_data.csv (که لیبل ندارند و برای پیش‌بینی نهایی پروژه استفاده می‌شوند) اجرا کرده و نتایج را در فایل q2_submission.csv ذخیره کردیم.
+
+### هدف کلی، ساخت یک مدل بود که بتواند امتیاز (احساس) نظرات متنی را با دقت خوبی پیش‌بینی کند.
+#### لینک مدل ذخیره شده در گوگل درایو :
+### RoBERTa Sentiment Analysis : https://drive.google.com/drive/folders/1yQFVy7C26saZoM4S0sFHuxngQuRWOgi6?usp=sharing
 
 
