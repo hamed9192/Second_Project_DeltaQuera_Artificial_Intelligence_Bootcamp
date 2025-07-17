@@ -71,6 +71,8 @@ Second Project, DeltaQuera Artificial Intelligence Bootcamp
 #### - برای ارزیابی نهایی، مدل آموزش‌دیده را روی داده‌های فایل test_data.csv (که لیبل ندارند و برای پیش‌بینی نهایی پروژه استفاده می‌شوند) اجرا کرده و نتایج را در فایل q2_submission.csv ذخیره کردیم.
 
 ### هدف کلی، ساخت یک مدل بود که بتواند امتیاز (احساس) نظرات متنی را با دقت خوبی پیش‌بینی کند.
+#### کد مربوط به مدل : 
+RoBERTa_Sentiment_Analysis_Model.ipynb
 #### لینک مدل ذخیره شده در گوگل درایو :
 ### RoBERTa Sentiment Analysis : https://drive.google.com/drive/folders/1yQFVy7C26saZoM4S0sFHuxngQuRWOgi6?usp=sharing
 
